@@ -4,10 +4,7 @@ title: "Diff two directories in powershell"
 date: 2017-05-27
 excerpt: "How to get a diff of two directories in powershell"
 project: false
-tag: 
-- powershell
-- windows
-- file_diff
+tags:[powershell, windows , file_diff]
 
 comments: true
 ---
