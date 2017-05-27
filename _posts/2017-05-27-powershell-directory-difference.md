@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Diff two directories in powershell"
-date: 2017-05-27
-excerpt: "How to get a diff of two directories in powershell"
-project: false
-tags:[powershell, windows , file_diff]
-
+title:  "Diff two directories using powershell"
+date:   2017-05-27
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+tag:
+- powershell 
+- diff
+- windows
+- command
 comments: true
 ---
 Whilst testing a jenkins deployment I wanted to make sure that the folder I'd zipped and shipped from our jenkins host to the new windows server
