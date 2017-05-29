@@ -11,8 +11,8 @@ tag:
 comments: true
 ---
 Every now and then whilst setting up a new server for the first time I find myself having to check whether or not the new server can reach our app/db server. 
-Depending on who has set it up, there is at least a 10% chance the admin has remote tools ```telnet``` or ```nc``` so after a little reading I came up with a handy little python
-scripts using tools which cannot be removed from a linux server: Python
+Depending on who has set it up, there is at least a 10% chance the admin has remote tools ```telnet``` or ```nc``` so after a little reading I came up with a handy little
+script using tools which cannot be removed from a linux server: Python
 
 ```python 
 import socket
